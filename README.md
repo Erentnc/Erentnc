@@ -45,15 +45,6 @@ My primary focus is the **Flutter & Dart** ecosystem—architecting reactive sta
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erentnc&show_icons=true&theme=tokyonight&hide_border=true" alt="Erentnc GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erentnc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eren_Tunç-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-tun%C3%A7-376b25235/)
