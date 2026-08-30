@@ -1,3 +1,7 @@
+
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE6xh0tzaeqag/profile-displaybackgroundimage-shrink_350_1400/B4DaAP4ephKYAU-/0/1786972859559?e=1789603200&v=beta&t=i4xVIH-YRFTYvt6xvSK2cAgWrl2heFdHb4qhaJqqJHE)
+
+
 # Hi there, I'm Eren! 👋
 
 I'm a **Software Developer** focused on cross-platform mobile application development, building scalable and performant apps using modern architectural patterns and Clean Code principles.
